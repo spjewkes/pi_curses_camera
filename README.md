@@ -1,2 +1,4 @@
-# pi_curses_camera
+# Raspberry Pi Curses Camera
+
 Display the Raspberry Pi Camera to the console
+
